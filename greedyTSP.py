@@ -1,5 +1,5 @@
 # Kütüphaneler
-import numpy as np                  # Matematiksel işlemler ve çok boyutlu diziler için kullanıl
+import numpy as np                  # Matematiksel işlemler ve çok boyutlu diziler için kullanılır
 import matplotlib.pyplot as plt     # Grafik çizimleri için kullanılır
 import networkx as nx               # Graf teorisi işlemleri için kullanılır
 import random                       # Rastgele sayı üretmek için kullanılır
